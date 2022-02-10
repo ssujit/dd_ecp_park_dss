@@ -1,0 +1,53 @@
+---
+title: "Park-ECP:DSS"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+
+<div class="col-sm-6">
+
+<a href = "https://ssujit.github.io">
+![](images/logo.png)
+
+
+</a>
+# [Picture source](https://unsplash.com/photos/4SrE8VxW86c)
+</div>
+
+
+
+<div class="col-sm-6">
+
+
+# **Park-ECP: DSS**
+
+DEMO VERSION (09.02.2022)
+
+This an R Markdown website for showing dicision support visulation for suitability assessment of Electric Vehicle Charging Point(E-CP) augmentation in Dresden.
+
+## Source code
+
+[Got to repository in Github](https://github.com/ssujit)
+
+
+## Who
+
+### [Dr. Sujit Sikder](https://ssujit.github.io)
+### [Prof. Magesh Nagarajan](https://iimnagpur.irins.org/profile/163523)
+### [Prof. Navonil Mustafee](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Navonil_Mustafee)
+
+</div>
+
+

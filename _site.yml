@@ -1,0 +1,13 @@
+name: "Park-ECP:DSS"
+navbar:
+  title: "Park-ECP:DSS"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Where"
+      href: Where.html
+    - text: "How"
+      href: How.html
+    - text: "Links"
+      href: Links.html
+output_dir: "docs"

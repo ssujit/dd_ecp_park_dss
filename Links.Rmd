@@ -1,0 +1,12 @@
+---
+title: "Resources"
+output: html_document
+---
+
+
+
+#[About Theory of Urban Fabric]("https://espace.curtin.edu.au/handle/20.500.11937/11247") 
+#[Open Data Dresden]("https://opendata.dresden.de/informationsportal/#app/startpage")
+#[ParkenDD]("https://parkendd.de") 
+
+
