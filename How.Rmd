@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    collapsed: true
+    collapsed: false
     number_sections: false
     toc_depth: 1
     #code_folding: hide
@@ -19,19 +19,19 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <div class="col-sm-12">
 
-<a href = "https://ssujit.github.io">
+<a href = "https://ssujit.github.io/dd_ecp_park_dss">
 ![](images/dataflow.png)
 
 
 </a>
 </div>
 
-
+<p></p>
 
 #Method
 
 <div class="col-sm-12">
-<a href = "https://ssujit.github.io">
+<a href = "https://ssujit.github.io/dd_ecp_park_dss">
 ![](images/workflow.png)
 
 </a>

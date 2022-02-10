@@ -18,7 +18,7 @@ output: html_document
 
 <div class="col-sm-6">
 
-<a href = "https://ssujit.github.io">
+<a href = "https://ssujit.github.io/dd_ecp_park_dss/">
 ![](images/logo.png)
 
 
@@ -28,18 +28,21 @@ output: html_document
 
 
 
-<div class="col-sm-6">
-
 
 # **Park-ECP: DSS**
 
+<div class="col-sm-6">
+
 DEMO VERSION (09.02.2022)
 
-This an R Markdown website for showing dicision support visulation for suitability assessment of Electric Vehicle Charging Point(E-CP) augmentation in Dresden.
+This to visualie the information in relation to decision support for the suitability assessment of Electric Vehicle Charging Point(E-CP) augmentation in the Dresden, Germany.
+
+Landing page: https://ssujit.github.io/dd_ecp_park_dss
+
 
 ## Source code
 
-[Got to repository in Github](https://github.com/ssujit)
+[Got to repository in Github](https://github.com/ssujit/dd_ecp_park_dss)
 
 
 ## Who?
