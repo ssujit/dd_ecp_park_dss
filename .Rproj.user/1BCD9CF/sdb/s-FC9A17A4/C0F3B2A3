@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Resources\"\noutput: html_document\n---\n\n\n\n#[About Theory of Urban Fabric](\"https://espace.curtin.edu.au/handle/20.500.11937/11247\") \n#[Open Data Dresden](\"https://opendata.dresden.de/informationsportal/#app/startpage\")\n#[ParkenDD](\"https://parkendd.de\") \n\n\n",
+    "created" : 1644504184724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3363069120",
+    "id" : "C0F3B2A3",
+    "lastKnownWriteTime" : 1644505278,
+    "last_content_update" : 1644505279019,
+    "path" : "R:/Publication_Me/_parking_ecd/dd_ecp_park_dss/Links.Rmd",
+    "project_path" : "Links.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

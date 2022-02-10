@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"How does it work?\"\noutput:\n  html_document:\n    toc: true\n    toc_float: true\n    collapsed: true\n    number_sections: false\n    toc_depth: 1\n    #code_folding: hide\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)\n```\n\n\n#Data\n\n<div class=\"col-sm-12\">\n\n<a href = \"https://ssujit.github.io\">\n![](images/dataflow.png)\n\n\n</a>\n</div>\n\n\n\n#Method\n\n<div class=\"col-sm-12\">\n<a href = \"https://ssujit.github.io\">\n![](images/workflow.png)\n\n</a>\n</div>\n",
+    "created" : 1644503988375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4255855794",
+    "id" : "A87C7800",
+    "lastKnownWriteTime" : 1644505624,
+    "last_content_update" : 1644505624243,
+    "path" : "R:/Publication_Me/_parking_ecd/dd_ecp_park_dss/How.Rmd",
+    "project_path" : "How.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

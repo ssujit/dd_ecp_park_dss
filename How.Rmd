@@ -1,10 +1,10 @@
 ---
-title: "How"
+title: "How does it work?"
 output:
   html_document:
     toc: true
     toc_float: true
-    collapsed: false
+    collapsed: true
     number_sections: false
     toc_depth: 1
     #code_folding: hide
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 #Data
 
-<div class="col-sm-6">
+<div class="col-sm-12">
 
 <a href = "https://ssujit.github.io">
 ![](images/dataflow.png)
@@ -26,13 +26,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 </a>
 </div>
 
-#Method
-<div class="col-sm-6">
 
+
+#Method
+
+<div class="col-sm-12">
 <a href = "https://ssujit.github.io">
 ![](images/workflow.png)
 
-
 </a>
 </div>
-
